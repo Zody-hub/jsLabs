@@ -59,12 +59,13 @@ h1 {
     line-height: 1;
 }
 
-.list-view .description .description-text {
+.list-view .description .description-text,
+.list-view .description .display{
     font-size: 30px;
     margin-bottom: 0;
 }
 
-.description .description-text {
+.description .description-text{
     font-size: 0.75rem;
     font-weight: 300;
     margin-bottom: 1rem;
